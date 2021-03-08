@@ -1,5 +1,5 @@
 # Project Overview
-This project presents a Docker image/container that will run a small guessing game. 
+This project presents a Docker image/container that will run a simple guessing game. 
 
 # Steps
 ## Load Docker Image
